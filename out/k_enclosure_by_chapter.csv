@@ -1,0 +1,10 @@
+chapter,chapter_title,k_deg,k_num_neighbors,ego_total_edges,ego_neighbor_neighbor_edges,enclosure_ratio
+1,Chapter One,8,8,15,7,0.4666666666666667
+2,Chapter Two,5,5,5,0,0.0
+3,Chapter Three,1,1,1,0,0.0
+4,Chapter Four,2,2,3,1,0.3333333333333333
+5,Chapter Five,2,2,3,1,0.3333333333333333
+6,Chapter Six,4,4,7,3,0.42857142857142855
+7,Chapter Seven,3,3,5,2,0.4
+8,Chapter Eight,4,4,7,3,0.42857142857142855
+9,Chapter Nine,2,2,2,0,0.0

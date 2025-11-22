@@ -1,0 +1,11 @@
+chapter,chapter_title,k_sentences_with_others,k_unique_partners,k_inst_partners,k_noninst_partners,k_inst_partner_ratio
+1,Chapter One,138,8,3,5,0.375
+2,Chapter Two,76,5,4,1,0.8
+3,Chapter Three,123,1,1,0,1.0
+4,Chapter Four,47,2,0,2,0.0
+5,Chapter Five,33,2,2,0,1.0
+6,Chapter Six,87,4,2,2,0.5
+7,Chapter Seven,222,3,3,0,1.0
+8,Chapter Eight,158,4,2,2,0.5
+9,Chapter Nine,116,2,2,0,1.0
+10,Chapter Ten,34,0,0,0,0.0
